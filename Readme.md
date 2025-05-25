@@ -14,3 +14,4 @@ Sources
 - Windows 1.01: http://vetusware.com/ (can't remember exact link)
 - Sol OS: http://www.oby.ro/os/
 - Nemizida: http://coderaiser.github.com/nemizida
+<!-- GitAds-Verify: NA2D237K6VQYI67N1HT4I8I2YVYEXZO8 -->
